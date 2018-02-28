@@ -1,0 +1,28 @@
+---
+title: "About Sarah"
+---
+
+My name is Sarah. I am an international student from Pakistan. 
+
+#My Favorite foods
+
+* Biryani
+* Chocolates
+    + Reese's Peanut Butter Cups
+    + Hershey's Cookies and Cream
+    
+##My top 10 favorite things to do
+
+1. Play Football
+2. Sleep
+3. Play with dogs
+    + Labradors
+    + Shih tzus
+    
+Countries i've visited  | Favorite Place in said country
+------------- | -------------
+India  | Qutub Minar
+Austria  | Oprah House
+
+
+

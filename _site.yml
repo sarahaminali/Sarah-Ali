@@ -1,0 +1,15 @@
+name: "my-website-Sarah"
+output_dir: "."
+navbar:
+  title: "My Website-Sarah"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+      
+output:
+html_document:
+theme: solar
+
+
